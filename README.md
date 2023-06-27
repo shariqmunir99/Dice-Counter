@@ -2,7 +2,7 @@
 
  # Dice Counter 
 
-A Counter that counts the number of items a certain input is given to it. In this case it counts the frequency of the numbers from 1 - 6 as these are the only sides of a dice
+A Counter that counts the number of times a certain input is given to it. In this case it counts the frequency of the numbers from 1 - 6 as these are the only sides of a dice
 
 It was made as a final project for my course Digital Logic Design during my 2nd Semester at [National University of Computer and Emerging Sciences](http://nu.edu.pk/).
 
