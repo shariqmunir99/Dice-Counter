@@ -10,7 +10,7 @@ It was made as a final project for my course Digital Logic Design during my 2nd 
 
 ### Note: You will need the software <em>Logic Works</em> to execute the .cct file provided.
 
-There's a file named "DiceCounterByShariqMunir.exe". Just run it and the counter will start.
+There's a file named "DiceCounterByShariqMunir.cct". Just run it and the counter will start.
 
 ## Screenshot
 
